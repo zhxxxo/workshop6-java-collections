@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+
+# Output folders
+out/
+bin/
+
+# VS Code Java extension
+.vscode/settings.json.bak
+.java-build/
+
+# OS files
+.DS_Store
+Thumbs.db
