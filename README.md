@@ -4,6 +4,8 @@ Solutions to the seven exercises of Workshop 6 (Melbourne Polytechnic).
 Each exercise lives in its own folder so it can be opened, run and screenshotted
 independently in VS Code.
 
+Repository: https://github.com/zhxxxo/workshop6-java-collections
+
 | Exercise | Difficulty | Folder | Class(es) |
 |----------|------------|--------|-----------|
 | 1 – Favourite songs and artists | Easy | `src/exercise1` | `Playlist` |
